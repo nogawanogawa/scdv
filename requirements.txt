@@ -5,3 +5,5 @@ luigi
 chardet
 pandas
 lightgbm
+gokart
+redshells
